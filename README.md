@@ -1,4 +1,4 @@
 # WP-Spam-Bot
-Arkadaşlarınızı Çıldırtın 
+Wp Mesaj Spamlama
 
 Öncelikle bu kodların çalışması için bilgisayarınıza kurmanız gereken bazı eklentiler vardır.
